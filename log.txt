@@ -1,0 +1,320 @@
+
+liri Command: movie-this
+____________________________________________________________
+Mr Nobody
+____________________________________________________________
+Title: Mr. Nobody
+Released in: 2009
+IMDB movie rating: 7.9
+Rotten Tomatoes rating: 67%
+Filmed in: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Movie plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+_________________________________________________________________
+Liri Command: my-tweets
+liri Command: movie-this
+____________________________________________________________
+ avengers
+____________________________________________________________
+Title: The Avengers
+Released in: 2012
+IMDB movie rating: 8.1
+Rotten Tomatoes rating: 92%
+Filmed in: USA
+Language: English, Russian, Hindi
+Movie plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+_________________________________________________________________
+liri Command: movie-this
+____________________________________________________________
+ infinity war
+____________________________________________________________
+Title: Avengers: Infinity War
+Released in: 2018
+IMDB movie rating: 8.6
+Rotten Tomatoes rating: 84%
+Filmed in: USA
+Language: English
+Movie plot: The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.
+Actors: Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans
+_________________________________________________________________
+Liri Command: spotify-this-song
+liri, spotify-this-song
+ mr blue sky
+___________________________________________________
+Artist: Electric Light Orchestra
+Song title: Mr. Blue Sky
+Preview song: https://p.scdn.co/mp3-preview/bb98f258a01d52c9b1c86ae82c67132bd52f29af?cid=06338ea8381a4390bd06d372765ce87c
+Album: Out of the Blue
+________________________________________________
+___________________________________________________
+Artist: Electric Light Orchestra
+Song title: Mr. Blue Sky - 2012 Version
+Preview song: https://p.scdn.co/mp3-preview/edbb0bda8fc9d22f651d7c8b3709dbb224fc7981?cid=06338ea8381a4390bd06d372765ce87c
+Album: Mr. Blue Sky: The Very Best of Electric Light Orchestra
+________________________________________________
+___________________________________________________
+Artist: Electric Light Orchestra
+Song title: Mr. Blue Sky
+Preview song: https://p.scdn.co/mp3-preview/29f98c3911cb752c1b11970b58d1cfd89b11c8d6?cid=06338ea8381a4390bd06d372765ce87c
+Album: The Essential Electric Light Orchestra
+________________________________________________
+___________________________________________________
+Artist: Electric Light Orchestra
+Song title: Mr. Blue Sky
+Preview song: https://p.scdn.co/mp3-preview/f0dfa9dd6a2dfe127a217c4afce40992789f82fb?cid=06338ea8381a4390bd06d372765ce87c
+Album: All Over The World: The Very Best Of ELO
+________________________________________________
+___________________________________________________
+Artist: Electric Light Orchestra
+Song title: 10538 Overture (40th Anniversary) - 2012 Version
+Preview song: https://p.scdn.co/mp3-preview/bc1065e2bb3e55de8facf3f94fb5758d787922fb?cid=06338ea8381a4390bd06d372765ce87c
+Album: Mr. Blue Sky: The Very Best of Electric Light Orchestra
+________________________________________________
+___________________________________________________
+Artist: Electric Light Orchestra
+Song title: Strange Magic - 2012 Version
+Preview song: https://p.scdn.co/mp3-preview/4626208a2d260a2dde0f6fa965e2b2558761212c?cid=06338ea8381a4390bd06d372765ce87c
+Album: Mr. Blue Sky: The Very Best of Electric Light Orchestra
+________________________________________________
+___________________________________________________
+Artist: Electric Light Orchestra
+Song title: Mr. Blue Sky
+Preview song: https://p.scdn.co/mp3-preview/2659e7edc3e9d454755e5c587acec0601a57055d?cid=06338ea8381a4390bd06d372765ce87c
+Album: Football Songs
+________________________________________________
+___________________________________________________
+Artist: Electric Light Orchestra
+Song title: Mr. Blue Sky - Score
+Preview song: Song preview is not available for this song.
+Album: Eternal Sunshine Of The Spotless Mind
+________________________________________________
+___________________________________________________
+Artist: Electric Light Orchestra
+Song title: Evil Woman - 2012 Version
+Preview song: https://p.scdn.co/mp3-preview/4a07ae8ccaafd90200435de11a5eea19a7bc609b?cid=06338ea8381a4390bd06d372765ce87c
+Album: Mr. Blue Sky: The Very Best of Electric Light Orchestra
+________________________________________________
+___________________________________________________
+Artist: Electric Light Orchestra
+Song title: Telephone Line - 2012 Version
+Preview song: https://p.scdn.co/mp3-preview/4456248790cf74d6bf21908f144d8cda226880ac?cid=06338ea8381a4390bd06d372765ce87c
+Album: Mr. Blue Sky: The Very Best of Electric Light Orchestra
+________________________________________________
+___________________________________________________
+Artist: Electric Light Orchestra
+Song title: Showdown - 2012 Version
+Preview song: https://p.scdn.co/mp3-preview/43d627cb95a99db77c5fc173559d7e111f518a7f?cid=06338ea8381a4390bd06d372765ce87c
+Album: Mr. Blue Sky: The Very Best of Electric Light Orchestra
+________________________________________________
+___________________________________________________
+Artist: Electric Light Orchestra
+Song title: Don't Bring Me Down - 2012 Version
+Preview song: https://p.scdn.co/mp3-preview/03c9b3b330250fad886feaa554d6bebf4f9b78d4?cid=06338ea8381a4390bd06d372765ce87c
+Album: Mr. Blue Sky: The Very Best of Electric Light Orchestra
+________________________________________________
+___________________________________________________
+Artist: Electric Light Orchestra
+Song title: Mr. Blue Sky - Live at Wembley Stadium
+Preview song: https://p.scdn.co/mp3-preview/17df2cba8bcf99e8a69a52d9c4087e33eb26a270?cid=06338ea8381a4390bd06d372765ce87c
+Album: Jeff Lynne's ELO - Wembley or Bust
+________________________________________________
+___________________________________________________
+Artist: Electric Light Orchestra
+Song title: Turn to Stone - 2012 Version
+Preview song: https://p.scdn.co/mp3-preview/f390d0a51fa7f0bdac9fbabd48230e4c9dac822d?cid=06338ea8381a4390bd06d372765ce87c
+Album: Mr. Blue Sky: The Very Best of Electric Light Orchestra
+________________________________________________
+___________________________________________________
+Artist: Electric Light Orchestra
+Song title: Livin' Thing - 2012 Version
+Preview song: https://p.scdn.co/mp3-preview/d1552ccb9df794d86855607e11aa8ac6fb73873c?cid=06338ea8381a4390bd06d372765ce87c
+Album: Mr. Blue Sky: The Very Best of Electric Light Orchestra
+________________________________________________
+Liri Command: spotify-this-song
+liri, spotify-this-song
+ tenderness
+___________________________________________________
+Artist: Parquet Courts
+Song title: Tenderness
+Preview song: https://p.scdn.co/mp3-preview/0c2e366c7930bcb326bac0b02881c06920a0a955?cid=06338ea8381a4390bd06d372765ce87c
+Album: Wide Awake!
+________________________________________________
+___________________________________________________
+Artist: Otis Redding
+Song title: Try A Little Tenderness
+Preview song: https://p.scdn.co/mp3-preview/1518c461301b0c3224efd3d44d3f2d4b2420ad77?cid=06338ea8381a4390bd06d372765ce87c
+Album: The Dictionary Of Soul
+________________________________________________
+___________________________________________________
+Artist: General Public
+Song title: Tenderness
+Preview song: Song preview is not available for this song.
+Album: All The Rage
+________________________________________________
+___________________________________________________
+Artist: Michael Bolton
+Song title: When a Man Loves a Woman
+Preview song: https://p.scdn.co/mp3-preview/aada5eca5f952667d9b175886defdde2c39b5403?cid=06338ea8381a4390bd06d372765ce87c
+Album: Time, Love & Tenderness
+________________________________________________
+___________________________________________________
+Artist: Otis Redding
+Song title: Try A Little Tenderness
+Preview song: https://p.scdn.co/mp3-preview/3663cc65fdb634e7a43e327004f6f867f59e1b46?cid=06338ea8381a4390bd06d372765ce87c
+Album: Stax-Volt: The Complete Singles 1959-1968
+________________________________________________
+___________________________________________________
+Artist: Citizens
+Song title: In Tenderness
+Preview song: https://p.scdn.co/mp3-preview/ae5bfb48f344a8a3ea71af5388dbc7a0afec8ad2?cid=06338ea8381a4390bd06d372765ce87c
+Album: Citizens
+________________________________________________
+___________________________________________________
+Artist: Laura Gibson
+Song title: Tenderness
+Preview song: https://p.scdn.co/mp3-preview/9bc1a7378d72ae1c582916084057de64d73ca37b?cid=06338ea8381a4390bd06d372765ce87c
+Album: Tenderness
+________________________________________________
+___________________________________________________
+Artist: Otis Redding
+Song title: Try A Little Tenderness (45 Version)
+Preview song: https://p.scdn.co/mp3-preview/916944402b4b9b83834305aed8c6b3a11c74c27a?cid=06338ea8381a4390bd06d372765ce87c
+Album: Try A Little Tenderness / I'm Sick Y'all [Digital 45]
+________________________________________________
+___________________________________________________
+Artist: The Modern Lovers
+Song title: A plea for tenderness
+Preview song: https://p.scdn.co/mp3-preview/c1b1e713f078df6d24576364bcf46ec69e8ee6a6?cid=06338ea8381a4390bd06d372765ce87c
+Album: Live at the longbranch and more
+________________________________________________
+___________________________________________________
+Artist: Michael Bublé
+Song title: Try A Little Tenderness
+Preview song: https://p.scdn.co/mp3-preview/25a785434fa1e5cc05a1e4131eff452ec8fb4eea?cid=06338ea8381a4390bd06d372765ce87c
+Album: It's Time (U.S. Version)
+________________________________________________
+___________________________________________________
+Artist: Otis Redding
+Song title: Try A Little Tenderness
+Preview song: https://p.scdn.co/mp3-preview/1518c461301b0c3224efd3d44d3f2d4b2420ad77?cid=06338ea8381a4390bd06d372765ce87c
+Album: The Very Best Of Otis Redding
+________________________________________________
+___________________________________________________
+Artist: The Sing Team
+Song title: In Tenderness
+Preview song: https://p.scdn.co/mp3-preview/1247586452e19552af8ad68c883196acbaa474e0?cid=06338ea8381a4390bd06d372765ce87c
+Album: Sing On!
+________________________________________________
+___________________________________________________
+Artist: Michael Bolton
+Song title: Missing You Now
+Preview song: https://p.scdn.co/mp3-preview/6d5c179cc826ca3240edc7fda990f83a117c09f0?cid=06338ea8381a4390bd06d372765ce87c
+Album: Time, Love & Tenderness
+________________________________________________
+___________________________________________________
+Artist: Jimmy Durante
+Song title: Try A Little Tenderness
+Preview song: https://p.scdn.co/mp3-preview/631047137ddfd0caa4f9aa11c99b375a2c2e611e?cid=06338ea8381a4390bd06d372765ce87c
+Album: Hello Young Lovers
+________________________________________________
+___________________________________________________
+Artist: Chris Brown
+Song title: Try A Little Tenderness
+Preview song: https://p.scdn.co/mp3-preview/0f0603a2fd3a1843dcff79207e8130c2eef07f8c?cid=06338ea8381a4390bd06d372765ce87c
+Album: This Christmas - Songs From The Motion Picture
+________________________________________________
+Liri command: do-what-it-says
+liri, spotify-this-song
+"I Want it That Way"
+___________________________________________________
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=06338ea8381a4390bd06d372765ce87c
+Album: The Hits--Chapter One
+________________________________________________
+___________________________________________________
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=06338ea8381a4390bd06d372765ce87c
+Album: Millennium
+________________________________________________
+___________________________________________________
+Artist: Anthem Lights
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=06338ea8381a4390bd06d372765ce87c
+Album: Covers Part IV
+________________________________________________
+___________________________________________________
+Artist: Manuel Costa
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=06338ea8381a4390bd06d372765ce87c
+Album: I Want It That Way
+________________________________________________
+___________________________________________________
+Artist: Dynamite Boy
+Song title: I Want It That Way
+Preview song: Song preview is not available for this song.
+Album: Punk Goes Pop
+________________________________________________
+___________________________________________________
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=06338ea8381a4390bd06d372765ce87c
+Album: Poodle Hat
+________________________________________________
+___________________________________________________
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=06338ea8381a4390bd06d372765ce87c
+Album: 90 Sweet 90s Hits!
+________________________________________________
+___________________________________________________
+Artist: Tyler and Mark
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=06338ea8381a4390bd06d372765ce87c
+Album: Beautiful Dreams
+________________________________________________
+___________________________________________________
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=06338ea8381a4390bd06d372765ce87c
+Album: NKOTBSB
+________________________________________________
+___________________________________________________
+Artist: Glee Cast
+Song title: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=06338ea8381a4390bd06d372765ce87c
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+________________________________________________
+___________________________________________________
+Artist: Boyce Avenue
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=06338ea8381a4390bd06d372765ce87c
+Album: Cover Sessions, Vol. 2
+________________________________________________
+___________________________________________________
+Artist: Steel Panther
+Song title: I Want It That Way
+Preview song: Song preview is not available for this song.
+Album: I Want It That Way
+________________________________________________
+___________________________________________________
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=06338ea8381a4390bd06d372765ce87c
+Album: NOW That's What I Call 90s Pop
+________________________________________________
+___________________________________________________
+Artist: Scott Bradlee's Postmodern Jukebox
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=06338ea8381a4390bd06d372765ce87c
+Album: Selfies on Kodachrome
+________________________________________________
+___________________________________________________
+Artist: Scary Pockets
+Song title: I Want It That Way
+Preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=06338ea8381a4390bd06d372765ce87c
+Album: Nu Funk
+________________________________________________

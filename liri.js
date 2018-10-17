@@ -1,3 +1,4 @@
+
 // Require dotenv package to set environment variables to the global process.env object in node.
 // These are values that are meant to be specific to the computer that node is running on,
 // and since we are gitignoring this file, they won't be pushed to github.
@@ -23,6 +24,14 @@ var logFile = "Data logged to log.txt file."
 var liriCommand = process.argv[2];
 var userInput = process.argv[3];
 
+//_________________________________________________________________________________________________
+//COMMANDLINE ARGUMENTS
+// Differentiating command line arguments and running a function that corresponds to current cl argument and also logging command to log.txt
+// But if command line argument is node liri.js do-what-it-says, then using the fs Node Package, 
+// LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
+//It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt.
+//Feel free to change the text in that document to test out the feature for other commands.
+
 if (liriCommand === "movie-this") {
     logData("liri-command = movie-this");
     getMovie(userInput);
@@ -41,7 +50,12 @@ if (liriCommand === "movie-this") {
     console.log("This Liri command you have entered does not exist.");
 }
 
-// Will run when the user says concert-this
+
+//________________________________________________________________________________________________________
+// FUNCTIONS
+//________________________________________________________________________________________________________
+
+//*******Get Concert function runs when liri command === concert-this************************
 function getConcert(userInput) {
     request("https://rest.bandsintown.com/artists/" + userInput + "/events?app_id=codingbootcamp", function (error, response, body) {
 
@@ -68,6 +82,7 @@ function getConcert(userInput) {
 };
 
 
+//*********Get movie function ................. *************************************************
 function getMovie(userInput) {
 //If no movie name is specified on the command line, then show the movie info for the movie, Mr. Nobody.
 if (!userInput) {
@@ -76,8 +91,6 @@ if (!userInput) {
     console.log("If you haven't watched Mr. Nobody, then you should: http://www.imdb.com/title/tt0485947/");
     console.log("It's on Netflix!")
 }
-
-
     request("http://www.omdbapi.com/?t=" + userInput + "&y=&plot=short&apikey=trilogy", function (error, response, body) {
         if (!error && response.statusCode === 200) {
             var body = JSON.parse(body);
@@ -112,26 +125,16 @@ if (!userInput) {
     });
 };
 
-function doWhatItSays() {
 
-    fs.readFile("random.txt", "utf8", function (error, data) {
-        if (error) {
-            return console.log(error);
-        }
 
-        var songdataArray = data.split(",");
-        getSong(songdataArray[1]);
-        logData(songdataArray[1]);
-    });
-}
-
+//********* Get Song Function ................. *************************************************
 function getSong(userInput) {
     if (userInput) {
         var song = userInput
     } else {
         var song = "The Sign"
     }
-    spotify.search({ type: 'track', query: song }, function (error, data) {
+    spotify.search({ type: 'track', query: song, limit: 10 }, function (error, data) {
         if (error) {
             return console.log(error);
         }
@@ -168,6 +171,23 @@ function getSong(userInput) {
     });
 };
 
+//********* doWhatItSays Function ................. *************************************************
+function doWhatItSays() {
+
+    fs.readFile("random.txt", "utf8", function (error, data) {
+        if (error) {
+            return console.log(error);
+        }
+
+        var songdataArray = data.split(",");
+        getSong(songdataArray[1]);
+        logData(songdataArray[1]);
+    });
+}
+
+//********* logData Function logs to log.txt ................. *************************************************
+
+
 function logData(logResults) {
 
     fs.appendFile("log.txt", logResults + "\r\n" , function(error) {
@@ -181,3 +201,53 @@ function logData(logResults) {
 });
 
 }
+
+
+// done
+
+
+
+
+
+
+
+
+
+
+
+/*
+//Get tweets function
+//------------------------------
+function getTweets(){
+
+	var client = new Twitter({
+		consumer_key: process.env.TWITTER_CONSUMER_KEY,
+		consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
+		access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
+		access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
+	});
+
+
+	var params = {screen_name: 'CCODES'};
+	client.get('statuses/user_timeline', params, function(error, tweets, response) {
+	  if (!error) {
+	    console.log("My tweets");
+	    logData("My tweets");
+	    for (var i=0; i < tweets.length; i ++) {
+	    	
+	    	var myTweetResults = 
+	    		"__________________________________________________________" + "\r\n" +
+					//Output the date/time when the tweet was created to the terminal.
+					"Created at: " + tweets[i].created_at + "\r\n" +
+				    //Output the tweet text from Twitter to the terminal.
+	    		    "Tweet: " + tweets[i].text + "\r\n" +		
+	    		"____________________________________________________________" 
+
+	    	//display data for user
+	    	console.log(myTweetResults);
+	    	//log data to text.file
+	    	logData(myTweetResults);
+	    }
+	  }
+	});
+} */

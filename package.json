@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/ChristineCodes/LIRI-Bot#readme",
   "dependencies": {
+    "bandsintown": "^1.0.1",
     "dotenv": "^6.1.0",
+    "moment": "^2.22.2",
     "node-spotify-api": "^1.0.7",
     "request": "^2.88.0",
     "spotify": "^0.3.0",

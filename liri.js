@@ -235,17 +235,15 @@ function getTweets(){
 	    logData("My tweets");
 	    for (var i=0; i < tweets.length; i ++) {
 	    	
-	    	var myTweetResults = 
+	    	var tweetResults = 
 	    		"__________________________________________________________" + "\r\n" +
-					//Output the date/time when the tweet was created to the terminal.
 					"Created at: " + tweets[i].created_at + "\r\n" +
-				    //Output the tweet text from Twitter to the terminal.
 	    		    "Tweet: " + tweets[i].text + "\r\n" +		
 	    		"____________________________________________________________" 
 
 	    	//display data for user
 	    	console.log(myTweetResults);
-	    	//log data to text.file
+	    	//log data to log.txt
 	    	logData(myTweetResults);
 	    }
 	  }
